@@ -24,15 +24,19 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 | Autoencoder | 0.5052 | 0.5000 | 0.5026 | 0.9705 |
 
 ##Dataset Distribution
+
 ![Class Distribution](images/class_distribution.png)
 
 ##Normal vs Fraud Transactions
+
 ![Normal vs Fraud](images/normal_vs_fraud.png)
 
 ##Feature Correlation Heatmap
+
 ![Heatmap](images/correlation_heatmap_of_all_features.png)
 
 ##Autoencoder Traininf Loss
+
 ![Training](images/autoencoder_training_progress.png)
 
 #Requirements

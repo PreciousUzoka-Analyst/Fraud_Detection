@@ -1,5 +1,6 @@
 # Credit Card Fraud Detection Project
 ##Project Overview
+
 This project investigates the use of unsupervised anomaly machine learning techniques for credit card fraud detection. Due to how rare frauds cases are, the models were trained withoutusing fraud labels and were assessed on their ability to identify anomalous transactions.
 
 The models that were implement and compared are:
@@ -8,6 +9,7 @@ The models that were implement and compared are:
 - Autoencoder
 
 ##Dataset
+
 The Project uses the Credit Card Fraud Detection dataset that is available on kaggle:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 

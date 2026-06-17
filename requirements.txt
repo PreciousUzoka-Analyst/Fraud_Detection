@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow-cpu==2.21.0
+protobuf>=6.31.1

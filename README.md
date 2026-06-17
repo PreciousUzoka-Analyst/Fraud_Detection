@@ -16,13 +16,27 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 2. Open the ipynb notebook
 3. Run all cells
 
-#Result Summary
-##Models Performance
+##Result Summary
 | Model | Precision | Recall | F1-Score | ROC-AUC |
 |---|---|---|---|---|
 | Tune Isolation Forest | 0.3077 | 0.3265 | 0.3168 | 0.9536 |
 | One-Class-SVM | 0.0266 | 0.8878 | 0.0517 | 0.9451 |
 | Autoencoder | 0.5052 | 0.5000 | 0.5026 | 0.9705 |
+
+##Dataset Distribution
+![Class Distribution](images/class_distribution.png)
+
+##Normal vs Fraud Transactions
+![Normal vs Fraud](images/normal_vs_fraud.png)
+
+##Feature Correlation Heatmap
+![Heatmap](images/correlation_heatmap_of_all_features.png)
+
+##Autoencoder Traininf Loss
+![Training](images/autoencoder_training_progress.png)
+
+#Requirements
+see requirements.txt
 
 
 

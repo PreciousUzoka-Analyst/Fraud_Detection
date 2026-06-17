@@ -40,6 +40,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ![Training](images/autoencoder_training_progress.png)
 
 #Requirements
+
 see requirements.txt
 
 
